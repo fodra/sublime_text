@@ -1,30 +1,54 @@
 {
-    // Font
-    "font_face": "Menlo",
-    "font_size": 13.0,
-    "font_options": ["subpixel_antialias", "no_bold"],
-    "line_padding_bottom": 0,
-    "line_padding_top": 0,
-
-    // Cursor style - no blinking and slightly wider than default
-    "caret_style": "solid",
-    "wide_caret": true,
-
-    // Editor view look-and-feel
-    "draw_white_space": "all",
-    "fold_buttons": false,
-    "highlight_line": true,
     "auto_complete": false,
-    "show_minimap": false,
-    "show_full_path": true,
-
-    // Editor behavior
-    "scroll_past_end": false,
-    "highlight_modified_tabs": true,
+    "caret_style": "solid",
+    "color_scheme": "Packages/User/Monokai (SL) (SublimePythonIDE).tmTheme",
+    "draw_white_space": "all",
     "find_selected_text": true,
+    "fold_buttons": false,
+    "font_face": "Menlo",
+    "font_options":
+    [
+        "subpixel_antialias",
+        "no_bold"
+    ],
+    "font_size": 13.0,
+    "highlight_line": true,
+    "highlight_modified_tabs": true,
     "ignored_packages":
     [
         "Vintage"
     ],
-    "translate_tabs_to_spaces": true
+    "file_exclude_patterns":
+    [
+        ".*",
+        "*.pyc",
+        "*.pyo",
+        "*.exe",
+        "*.dll",
+        "*.obj",
+        "*.o",
+        "*.a",
+        "*.lib",
+        "*.so",
+        "*.dylib",
+        "*.ncb",
+        "*.sdf",
+        "*.suo",
+        "*.pdb",
+        "*.idb",
+        ".DS_Store",
+        "*.class",
+        "*.psd",
+        "*.db"
+    ],
+    "line_padding_bottom": 0,
+    "line_padding_top": 0,
+    "scroll_past_end": false,
+    "show_full_path": true,
+    "show_minimap": false,
+    "detect_indentation": false,
+    "translate_tabs_to_spaces": true,
+    "trim_automatic_white_space": true,
+    "trim_trailing_white_space_on_save": true,
+    "wide_caret": true
 }
