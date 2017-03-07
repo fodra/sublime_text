@@ -1,0 +1,19 @@
+{
+	"folders":
+	[
+		{
+			"path": "/Users/andrew/Projects/gametraka_project_v3"
+		},
+		{
+			"follow_symlinks": true,
+            "path": "."
+		}
+	],
+    "SublimeLinter":
+    {
+        "@python": 3.6
+    },
+    "settings": {
+        "python_interpreter": "/Users/andrew/Envs/py3/bin/python"
+    }
+}
