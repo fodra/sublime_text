@@ -1,0 +1,10 @@
+{
+    "font_face": "Menlo",
+    "font_size": 13,
+    "font_options": ["subpixel_antialias", "no_bold"],
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "translate_tabs_to_spaces": true
+}
