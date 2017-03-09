@@ -1,14 +1,21 @@
+<snippet>
+    <content><![CDATA[
 """
 * Copyright (c) 2017, Sports Performance Tracking
 * 1/168 Hoddle Street, Abbotsford VIC 3067 Australia
 * Phone: +61 3 9415 7400
-* 
+*
 * The copyright to the computer program(s) herein is the property of
 * Sports Performance Tracking, Australia.
 * The program(s) may be used and/or copied only with the written permission
 * of Sports Performance Tracking or in accordance with the terms and
 * conditions stipulated in the agreement/contract under which the program(s)
 * have been supplied.
-* 
+*
 * info@sptgps.com
-"""
+"""]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>copyright</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope>source.python</scope>
+</snippet>
